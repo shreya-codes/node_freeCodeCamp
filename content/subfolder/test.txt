@@ -1,0 +1,2 @@
+const txt =requiure(path)
+console.log(path.sep)
